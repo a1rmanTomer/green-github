@@ -1,13 +1,13 @@
 import os
 import subprocess
 
-def automate_git_operations(run_times):
+def automate_git_operations():
     """
     Automate creating a file, performing git add/commit/push, deleting the file,
-    and repeating the git commands for the specified number of run times.
-
-    :param run_times: Number of times to repeat the process
+    and repeating the git commands for a fixed number of 25 runs.
     """
+    run_times = 25
+
     for i in range(1, run_times + 1):
         filename = f"temp_file_{i}.txt"
         
@@ -37,4 +37,4 @@ def automate_git_operations(run_times):
             return
 
 # Example usage
-automate_git_operations(5)
+automate_git_operations()
