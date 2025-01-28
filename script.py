@@ -4,9 +4,9 @@ import subprocess
 def automate_git_operations():
     """
     Automate creating a file, performing git add/commit/push, deleting the file,
-    and repeating the git commands for a fixed number of 101 runs.
+    and repeating the git commands for a fixed number of 26 runs.
     """
-    run_times = 101
+    run_times = 26
 
     for i in range(1, run_times + 1):
         filename = f"temp_file_{i}.txt"
