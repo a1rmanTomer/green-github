@@ -6,7 +6,7 @@ function automateGitOperations() {
      * Automate creating a file, performing git add/commit/push, deleting the file,
      * and repeating the git commands for a fixed number of 25 runs.
      */
-    const runTimes = 25;
+    const runTimes = 101;
 
     for (let i = 1; i <= runTimes; i++) {
         const filename = `temp_file_${i}.txt`;
