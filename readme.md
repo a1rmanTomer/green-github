@@ -4,7 +4,7 @@
 
 - fork this Repo and clone it to the scr you want it to exist in.
 - make sure the cloned folder is linked to your account and its configured as well.
-- run either the .py file (if installed on your machine) or .js file.
+- run either the .py file (if installed on your machine) or .js (npm install and run it) file.
 - Enjoy green Github profile flexing (just don't forget to run this everyday huh? ;D)
 
 ## About
