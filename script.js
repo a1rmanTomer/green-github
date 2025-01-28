@@ -4,7 +4,7 @@ const { execSync } = require('child_process');
 function automateGitOperations() {
     /**
      * Automate creating a file, performing git add/commit/push, deleting the file,
-     * and repeating the git commands for a fixed number of 25 runs.
+     * and repeating the git commands for a fixed number of 14 runs.
      */
     const runTimes = 14;
 

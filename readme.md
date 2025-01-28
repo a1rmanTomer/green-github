@@ -2,7 +2,7 @@
 
 ## About
 
-- Automated script to spam your git repo with 202 (runtimes\*2) commits, in order for the profile contributions to become greener.
+- Automated script to spam your git repo with (runtimes \* 2) commits, in order for the profile contributions to become greener.
 
 ## TBD
 
