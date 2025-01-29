@@ -4,7 +4,7 @@
 
 - fork this Repo and clone it to the scr you want it to exist in.
 - make sure the cloned folder is linked to your account and its configured as well.
-- run the .py file (make sure you have [Python 3](https://www.python.org/downloads/) installed.).
+- run the .py file (make sure you have [Python 3](https://www.python.org/downloads/) installed).
 - Enjoy green Github profile flexing (just don't forget to run this everyday huh? ;D)
 
 ## About
