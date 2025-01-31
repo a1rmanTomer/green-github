@@ -4,7 +4,7 @@ import subprocess
 def automate_git_operations():
     """
     Automate creating a file, performing git add/commit/push, deleting the file,
-    and repeating the git commands for a fixed number of 26 runs.
+    and repeating the git commands for a fixed number of 13 runs.
     """
     run_times = 13
 
